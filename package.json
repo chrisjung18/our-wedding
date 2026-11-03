@@ -1,0 +1,33 @@
+{
+  "name": "wedding-website",
+  "version": "1.0.0",
+  "description": "An animated wedding website with an RSVP form and a photo gallery",
+  "productName": "Wedding Website",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "quasar dev",
+    "build": "quasar build"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.17.0",
+    "axios": "^1.21.0",
+    "core-js": "^3.38.1",
+    "moment": "^2.31.0",
+    "pinia": "^3.0.0",
+    "quasar": "^2.18.0",
+    "vue": "^3.5.0",
+    "vue-i18n": "^11.4.17",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@quasar/app-webpack": "^4.0.0",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47"
+  },
+  "engines": {
+    "node": "^28 || ^26 || ^24 || ^22 || ^20",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}

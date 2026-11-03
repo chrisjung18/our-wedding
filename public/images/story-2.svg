@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="Story photo 2">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3d1d52"/>
+      <stop offset="0.55" stop-color="#c55a8a"/>
+      <stop offset="1" stop-color="#f2b66d"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#ffe9c7" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#ffe9c7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#sky)"/>
+  <circle cx="488" cy="550" r="384" fill="url(#glow)"/>
+  <circle cx="488" cy="550" r="160" fill="#ffe9c7"/>
+  <path d="M0 780 C 200 680, 400 800, 600 720 S 800 740, 800 740 L 800 1000 L 0 1000 Z" fill="#2a1740" opacity="0.75"/>
+  <path d="M0 880 C 240 820, 480 920, 800 850 L 800 1000 L 0 1000 Z" fill="#3d1d52"/>
+  <text x="400" y="940" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="40" fill="#fff3e4">Story photo 2 (replace me)</text>
+</svg>

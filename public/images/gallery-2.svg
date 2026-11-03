@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" width="900" height="900" role="img" aria-label="Gallery photo 2">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5a2a6e"/>
+      <stop offset="0.55" stop-color="#e86a92"/>
+      <stop offset="1" stop-color="#fbd9a8"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#fff3e4" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#fff3e4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="900" fill="url(#sky)"/>
+  <circle cx="432" cy="495.00000000000006" r="432" fill="url(#glow)"/>
+  <circle cx="432" cy="495.00000000000006" r="180" fill="#fff3e4"/>
+  <path d="M0 702 C 225 612, 450 720, 675 648 S 900 666, 900 666 L 900 900 L 0 900 Z" fill="#2a1740" opacity="0.75"/>
+  <path d="M0 792 C 270 738, 540 828, 900 765 L 900 900 L 0 900 Z" fill="#5a2a6e"/>
+  <text x="450" y="846" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="45" fill="#fff3e4">Gallery photo 2 (replace me)</text>
+</svg>
