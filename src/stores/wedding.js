@@ -15,7 +15,7 @@ export const useWeddingStore = defineStore('wedding', {
     timeZone: 'Europe/Rome',
 
     heroPlace: 'Villa Aurora, Lake Como, Italy',
-    hashtag: '#GiuliaAndMarco2027',
+    hashtag: '#AnnickAndWalter2027',
     rsvpDeadline: '1 May 2027',
     maxGuests: 4,
 
