@@ -7,8 +7,8 @@ import { defineStore } from 'pinia'
  */
 export const useWeddingStore = defineStore('wedding', {
   state: () => ({
-    partnerA: 'Giulia',
-    partnerB: 'Marco',
+    partnerA: 'Annick',
+    partnerB: 'Walter',
 
     // Date and time of the ceremony, with the UTC offset of the venue
     dateISO: '2027-06-19T16:00:00+02:00',
